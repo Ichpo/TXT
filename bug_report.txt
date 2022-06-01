@@ -24,3 +24,4 @@ Status: New
 Environment: Windows 10/SQL Server 2019
 
 Description: Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application
+
